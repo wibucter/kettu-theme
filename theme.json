@@ -8,9 +8,9 @@
         }
     ],
     "background": {
-        "url": "https://raw.githubusercontent.com/wiwiichan/AMOLED-anime-theme/refs/heads/main/rem.jpg",
+        "url": "https://github.com/wibucter/AMOLED-anime-theme/raw/refs/heads/main/IMG_20260723_114725.png",
         "blur": 0.5,
-        "alpha": 0.25,
+        "alpha": 1,
         "size": "cover",
         "position": "center"
     },
