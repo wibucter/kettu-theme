@@ -1,0 +1,18 @@
+{
+    "name": "theme",
+    "description": "just a theme",
+    "authors": [
+        {
+            "name": "wibucter69",
+            "id": "620564145137254400"
+        }
+    ],
+    "background": {
+        "url": "https://raw.githubusercontent.com/wiwiichan/AMOLED-anime-theme/refs/heads/main/rem.jpg",
+        "blur": 0.5,
+        "alpha": 0.25,
+        "size": "cover",
+        "position": "center"
+    },
+    "spec": 2
+}
