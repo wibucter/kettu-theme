@@ -1,6 +1,6 @@
 {
   "name": "Mabel",
-  "description": "Mabel theme.",
+  "description": " Black Souls Mabel theme.",
   "version": "1",
   "authors": [
     {
@@ -10,7 +10,7 @@
   ],
   "semanticColors": {
     "ANDROID_RIPPLE": [
-      "#5b2a82"
+      "#3a3d43"
     ],
     "CHAT_BACKGROUND": [
       "#000000"
@@ -115,7 +115,7 @@
       "#5865f2"
     ],
     "INTERACTIVE_HOVER": [
-      "#ffffff"
+      "#4450d8"
     ],
     "INTERACTIVE_MUTED": [
       "#aaaaaa"
@@ -145,7 +145,7 @@
       "#FFFFFF1A"
     ],
     "REDESIGN_BUTTON_DANGER_BACKGROUND": [
-      "#7f007b"
+      "#ed4245"
     ],
     "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
       "#aaaaaa"
@@ -160,10 +160,10 @@
       "#000000"
     ],
     "STATUS_DANGER": [
-      "#7f007b"
+      "#ed4245"
     ],
     "STATUS_DANGER_BACKGROUND": [
-      "#7f007b"
+      "#ed4245"
     ],
     "STATUS_DANGER_TEXT": [
       "#000000"
@@ -175,7 +175,7 @@
       "#232428"
     ],
     "POLLS_VICTOR_FILL": [
-      "#43b58180"
+      "#3ba55d80"
     ],
     "TEXT_LINK": [
       "#5865f2"
@@ -199,10 +199,10 @@
       "#111212"
     ],
     "BACKGROUND_MODIFIER_ACCEPT": [
-      "#43b58133"
+      "#3ba55d33"
     ],
     "BACKGROUND_MODIFIER_ACCEPT_HOVER": [
-      "#43b5814d"
+      "#3ba55d4d"
     ],
     "AUTOMOD_QUEUED_FOR_REVIEW_BACKGROUND": [
       "#faa61a33"
@@ -211,13 +211,13 @@
       "#faa61a4d"
     ],
     "SCROLLBAR_AUTO_THUMB": [
-      "#2b2b2b"
+      "#3a3d43"
     ],
     "SCROLLBAR_AUTO_TRACK": [
       "transparent"
     ],
     "SCROLLBAR_THIN_THUMB": [
-      "#2b2b2b"
+      "#3a3d43"
     ],
     "SCROLLBAR_THIN_TRACK": [
       "transparent"
@@ -251,7 +251,7 @@
     "BRAND_460": "#5865f2",
     "BRAND_500": "#5865f2",
     "BRAND_530": "#5865f2",
-    "BRAND_560": "#ffffff",
+    "BRAND_560": "#4450d8",
     "BRAND_600": "#5865f2",
     "BRAND_630": "#5865f2",
     "BRAND_660": "#5865f2",
@@ -280,7 +280,7 @@
     "PRIMARY_300": "#5865f2",
     "PRIMARY_330": "#e6e6e6",
     "PRIMARY_360": "#5865f2",
-    "PRIMARY_400": "#ffffff",
+    "PRIMARY_400": "#4450d8",
     "PRIMARY_460": "#232428",
     "PRIMARY_500": "#5865f2",
     "PRIMARY_530": "#5865f2",
@@ -291,24 +291,36 @@
     "PRIMARY_700": "#1a1b1e",
     "PRIMARY_730": "#aaaaaa",
     "PRIMARY_800": "#2b2d31",
-    "GREEN_260": "#43b581",
-    "GREEN_300": "#43b581",
-    "GREEN_330": "#43b581",
-    "GREEN_345": "#43b581",
-    "GREEN_360": "#43b581",
-    "GREEN_400": "#43b581",
-    "GREEN_430": "#43b581",
-    "GREEN_460": "#43b581",
-    "GREEN_500": "#43b581",
-    "GREEN_530": "#43b581",
-    "GREEN_560": "#43b581",
-    "GREEN_600": "#43b581",
-    "GREEN_630": "#43b581",
-    "GREEN_660": "#43b581",
-    "GREEN_700": "#43b581",
-    "GUILD_BOOSTING_PINK": "#5865f2",
-    "GUILD_BOOSTING_PURPLE": "#5865f2",
-    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#5865f2",
+    "GREEN_260": "#3ba55d",
+    "GREEN_300": "#3ba55d",
+    "GREEN_330": "#3ba55d",
+    "GREEN_345": "#3ba55d",
+    "GREEN_360": "#3ba55d",
+    "GREEN_400": "#3ba55d",
+    "GREEN_430": "#3ba55d",
+    "GREEN_460": "#3ba55d",
+    "GREEN_500": "#3ba55d",
+    "GREEN_530": "#3ba55d",
+    "GREEN_560": "#3ba55d",
+    "GREEN_600": "#3ba55d",
+    "GREEN_630": "#3ba55d",
+    "GREEN_660": "#3ba55d",
+    "GREEN_700": "#3ba55d",
+    "RED_260": "#ed4245",
+    "RED_300": "#ed4245",
+    "RED_330": "#ed4245",
+    "RED_345": "#ed4245",
+    "RED_360": "#ed4245",
+    "RED_400": "#ed4245",
+    "RED_430": "#ed4245",
+    "RED_460": "#ed4245",
+    "RED_500": "#ed4245",
+    "RED_530": "#ed4245",
+    "RED_560": "#ed4245",
+    "RED_600": "#ed4245",
+    "RED_630": "#ed4245",
+    "RED_660": "#ed4245",
+    "RED_700": "#ed4245",
     "ORANGE_260": "#faa61a",
     "ORANGE_300": "#faa61a",
     "ORANGE_330": "#faa61a",
